@@ -1,7 +1,7 @@
 ## Horiseon, Inc.
 
 ## Purpose
-A website for a marketing company
+Refactor the Horiseon website based on accessiblity requirements. 
 
 ## Built With
 * HTML
