@@ -1,4 +1,4 @@
-## Horiseon
+## Horiseon, Inc.
 
 ## Purpose
 A website for a marketing company
