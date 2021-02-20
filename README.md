@@ -8,7 +8,7 @@ Refactor the Horiseon website based on accessiblity requirements.
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+https://mmanalang21.github.io/urban-octo-telegram/
 
 ## Contribution
 Made with ❤️ by Matthew Manalang
