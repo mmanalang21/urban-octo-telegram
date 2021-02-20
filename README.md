@@ -1,7 +1,7 @@
-##Horiseon
+## Horiseon
 
 ## Purpose
-A website that offers fitness training services. 
+A website for a marketing company
 
 ## Built With
 * HTML
@@ -11,6 +11,6 @@ A website that offers fitness training services.
 https://lernantino.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by [your name]
+Made with ❤️ by Matthew Manalang
 
-### ©️2019 Run Buddy, Inc 
+### © 2019 Horiseon Social Solution Services, Inc.
